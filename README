@@ -1,54 +1,76 @@
-# Olá, eu sou Gabriel Loquetti 👋  
+# 💻 Gabriel Loquetti 
 
 💻 Programador e estudante de **Técnico em Desenvolvimento de Sistemas**  
-🚀 Apaixonado por tecnologia e desenvolvimento de software  
+🚀 Apaixonado por tecnologia e desenvolvimento de software
 
-## 🛠️ Tecnologias e Habilidades  
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px">
+</div>
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-</div>  
+## 🚀 Minha Jornada
 
-## 📌 Sobre Mim  
-- 📚 Atualmente estudando desenvolvimento de sistemas  
-- 💡 Interesses: Front-end, Back-end e Mobile  
-- 🎯 Objetivo: Me tornar um desenvolvedor full-stack  
+```javascript
+const aboutMe = {
+  estudante: "Técnico em Desenvolvimento de Sistemas",
+  foco: ["Front-end", "Back-end", "Mobile"],
+  objetivo: "Tornar-me um desenvolvedor Full Stack",
+  lema: "Código limpo, soluções inteligentes!"
+}
+```
 
-## 🌍 Contato e Redes Sociais  
+## 🛠️ Minha Caixa de Ferramentas
 
-<div>  
-  <a href="https://www.instagram.com/ogabriel.marin/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>  
-  <a href="https://www.linkedin.com/in/gabriel-marin-26b33b248/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>  
-  <a href="https://wa.me/5519997615610" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>  
-  <a href="mailto:gabrielmloquetti@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>  
-</div>  
+<div align="center">
+  
+### 💻 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📊 Estatísticas do GitHub  
+### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielLoquetti&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/GabrielLoquetti)  
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLoquetti&layout=compact&theme=dracula)](https://github.com/GabrielLoquetti)  
+## 📈 Minhas Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielLoquetti&theme=dracula)](https://git.io/streak-stats)  
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielLoquetti&theme=radical)](https://git.io/streak-stats)
 
----  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLoquetti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+## 🌟 Inspiração
+
+> "O computador nasceu para resolver problemas que antes não existiam."  
+> — Bill Gates
+
+> "A tecnologia move o mundo, mas o código é sua linguagem secreta."  
+> — Gabriel Loquetti
+
+## 📫 Vamos Conversar!
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-ogabriel.marin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ogabriel.marin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Marin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marin-26b33b248/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(19)997615610-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519997615610)
+[![Gmail](https://img.shields.io/badge/Gmail-gabrielmloquetti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmloquetti@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150px">
+  <p>Vamos criar algo incrível juntos!</p>
+</div>
+
+---
+
 ✨ "Seu mais insatisfeito cliente é sua maior fonte de aprendizado." - Bill Gates  
-
-🔗 Visite meu [Portfólio](#) (adicione seu link quando tiver)  
