@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=1000&color=FFFFFF&width=435&lines=Gabriel+Loquetti+-+Dev" alt="Gabriel Loquetti" />
 </h1>
 
-**Desenvolvedor | Estudante de Desenvolvimento de Sistemas**
+**Estudante de Desenvolvimento de Sistemas**
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
