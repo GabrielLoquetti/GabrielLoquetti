@@ -20,7 +20,7 @@
 </div>
 
 ## 🌟 Citação Favorita
-> "Seu mais insatisfeito cliente é sua maior fonte de aprendizado."  
+> "The only way to do great work is to love what you do." 
 > — Bill Gates
 
 ## 📫 Conecte-se Comigo
