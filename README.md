@@ -21,7 +21,7 @@
 
 ## 🌟 Citação Favorita
 > "The only way to do great work is to love what you do." 
-> — Bill Gates
+> — Steve Jobs
 
 ## 📫 Conecte-se Comigo
 <div align="center">
