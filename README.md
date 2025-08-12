@@ -20,7 +20,9 @@
 </div>
 
 <div align="center">
-  [GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielLoquetti&show_icons=true&theme=radical&count_private=true)
+  <a href="https://www.instagram.com/ogabriel.marin/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielLoquetti&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+  </a>
 </div>
 
 ## 🌟 Citação Favorita
@@ -52,6 +54,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
