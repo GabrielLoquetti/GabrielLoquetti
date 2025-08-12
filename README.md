@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielLoquetti&show_icons=true&theme=radical&count_private=true)
+
+[![GitHub Skyline](https://skyline.github.com/GabrielLoquetti/github-skyline.svg)](https://skyline.github.com/SEU_USUARIO)
+
 ## 🌟 Citação Favorita
 > "The only way to do great work is to love what you do." 
 > — Steve Jobs
@@ -48,3 +52,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
