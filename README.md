@@ -19,11 +19,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-<div align="center">
-  <a href="https://www.instagram.com/ogabriel.marin/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielLoquetti&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
-  </a>
-</div>
+
 
 ## 🌟 Citação Favorita
 > "The only way to do great work is to love what you do." 
