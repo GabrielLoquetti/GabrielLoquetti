@@ -20,43 +20,16 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielLoquetti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_rank=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielLoquetti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_rank=true" width="55%">
 
-</td>
-<td valign="top" width="50%">
-
-### 🔥 Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLoquetti&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%">
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielLoquetti&theme=tokyonight&hide_border=true&background=00000000" width="65%">
-</div>
-
-<br>
-
-<div align="center">
-
-### 🎧 Now Playing
-
-<!--
-  Widget do Spotify: precisa de deploy próprio (passo a passo no final da resposta).
-  Quando tiver a URL do seu deploy, troque a linha abaixo por ela:
--->
-<img src="https://SEU-DEPLOY-AQUI.vercel.app/api/spotify" width="450">
-</div>
-<!-- fim spotify -->
-
 </div>
 
 <br>
