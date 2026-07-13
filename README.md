@@ -49,9 +49,13 @@
 
 ### 🎧 Now Playing
 
-<!-- SPOTIFY_START -->
-<img src="https://novatorem-gabrielloquetti.vercel.app/api/spotify" width="450">
-<!-- SPOTIFY_END -->
+<!--
+  Widget do Spotify: precisa de deploy próprio (passo a passo no final da resposta).
+  Quando tiver a URL do seu deploy, troque a linha abaixo por ela:
+-->
+<img src="https://SEU-DEPLOY-AQUI.vercel.app/api/spotify" width="450">
+</div>
+<!-- fim spotify -->
 
 </div>
 
@@ -60,7 +64,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-marin-26b33b248/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
   <a href="mailto:gabrielmloquetti@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
-  <a href="https://wa.me/5519997615610"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>&nbsp;
+  <a href="https://wa.me/5519997615610"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="48" /></a>&nbsp;
   <a href="https://www.instagram.com/ogabriel.marin/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
 
